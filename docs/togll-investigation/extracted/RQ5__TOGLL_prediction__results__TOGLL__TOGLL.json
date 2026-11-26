@@ -1,0 +1,2620 @@
+[
+    {
+        "id": 212,
+        "target": "assertTrue(zipArchiveOutputStream0.isSeekable())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.isSeekable());",
+        "score": -0.0030188816599547863,
+        "exact_match": false
+    },
+    {
+        "id": 160,
+        "target": "assertTrue(boolean0)",
+        "output": "assertEquals(false, boolean0);",
+        "score": -0.07458390295505524,
+        "exact_match": false
+    },
+    {
+        "id": 292,
+        "target": "assertEquals(45, strBuilder0.capacity())",
+        "output": "assertEquals(8, strBuilder0.capacity());",
+        "score": -0.1579321026802063,
+        "exact_match": false
+    },
+    {
+        "id": 66,
+        "target": "assertEquals((-1618.2472852745432), double0, 0.01)",
+        "output": "assertEquals(0.0, double0, 0.01D);",
+        "score": -0.05630405619740486,
+        "exact_match": false
+    },
+    {
+        "id": 316,
+        "target": "assertEquals(\"wTDdt<TJing. Mac\", string0)",
+        "output": "assertEquals(\"wTDdt<TJing. Mac\", string0);",
+        "score": -0.0750197097659111,
+        "exact_match": false
+    },
+    {
+        "id": 70,
+        "target": "exception",
+        "output": "exception",
+        "score": -1.1920927533992653e-07,
+        "exact_match": true
+    },
+    {
+        "id": 351,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 131,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 100,
+        "target": "assertNotNull(object0)",
+        "output": "assertNull(object0);",
+        "score": -0.04722975194454193,
+        "exact_match": false
+    },
+    {
+        "id": 189,
+        "target": "assertEquals(\"\", characterReader0.toString())",
+        "output": "assertEquals(\"J\", characterReader0.toString());",
+        "score": -0.004767253063619137,
+        "exact_match": false
+    },
+    {
+        "id": 3,
+        "target": "assertNotNull(string0)",
+        "output": "assertEquals(\"1[Is\\\"A\\\"vL&\", string0);",
+        "score": -0.09998098015785217,
+        "exact_match": false
+    },
+    {
+        "id": 8,
+        "target": "assertEquals(JsonToken.NULL, jsonToken0)",
+        "output": "assertNotNull(jsonToken0);",
+        "score": -0.11549323052167892,
+        "exact_match": false
+    },
+    {
+        "id": 265,
+        "target": "assertEquals(1, filteringParserDelegate0.getMatchCount())",
+        "output": "assertEquals(1166, filteringParserDelegate0.getMatchCount());",
+        "score": -0.12362473458051682,
+        "exact_match": false
+    },
+    {
+        "id": 165,
+        "target": "assertEquals(\"\", attribute1.getValue())",
+        "output": "assertEquals(\"9\", attribute1.getValue());",
+        "score": -0.04099779576063156,
+        "exact_match": false
+    },
+    {
+        "id": 170,
+        "target": "assertEquals(\"<!DOCTYPE PUBLIC \\\"#doctype\\\" \\\"2oULXUb#K<| k8g\\\">\", stringBuilder0.toString())",
+        "output": "assertEquals(\"<!DOCTYPE2oULXUb#K<| k8g >\", stringBuilder0.toString());",
+        "score": -0.10060139745473862,
+        "exact_match": false
+    },
+    {
+        "id": 86,
+        "target": "",
+        "output": "assertEquals(true, mockPrintWriter0.checkError());",
+        "score": -0.08509177714586258,
+        "exact_match": false
+    },
+    {
+        "id": 337,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 361,
+        "target": "assertEquals(\"\\u0000\\u0000\\u0000&#X\", string0)",
+        "output": "assertEquals(2, charBuffer0.length());",
+        "score": -0.1508803814649582,
+        "exact_match": false
+    },
+    {
+        "id": 76,
+        "target": "assertEquals(0.06666666666666667, univariatePointValuePair0.getPoint(), 0.01)",
+        "output": "assertNotNull(univariatePointValuePair0);",
+        "score": -0.13875643908977509,
+        "exact_match": false
+    },
+    {
+        "id": 35,
+        "target": "",
+        "output": "assertEquals(0L, long0);",
+        "score": -0.16556516289710999,
+        "exact_match": false
+    },
+    {
+        "id": 59,
+        "target": "exception",
+        "output": "exception",
+        "score": -2.3841852225814364e-07,
+        "exact_match": true
+    },
+    {
+        "id": 15,
+        "target": "assertEquals(1L, long0)",
+        "output": "assertEquals(2L, long0);",
+        "score": -0.15375202894210815,
+        "exact_match": false
+    },
+    {
+        "id": 71,
+        "target": "exception",
+        "output": "exception",
+        "score": -1.7881390590446244e-07,
+        "exact_match": true
+    },
+    {
+        "id": 329,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 5,
+        "target": "assertFalse(boolean0)",
+        "output": "assertEquals(false, boolean0);",
+        "score": -0.017900483682751656,
+        "exact_match": false
+    },
+    {
+        "id": 41,
+        "target": "",
+        "output": "assertNotNull(jsonWriter0);",
+        "score": -0.03145520016551018,
+        "exact_match": false
+    },
+    {
+        "id": 366,
+        "target": "",
+        "output": "assertEquals(2, charBuffer0.length());",
+        "score": -0.15085794031620026,
+        "exact_match": false
+    },
+    {
+        "id": 55,
+        "target": "",
+        "output": "assertEquals(true, boolean0.booleanValue());",
+        "score": -0.05399123951792717,
+        "exact_match": false
+    },
+    {
+        "id": 276,
+        "target": "assertFalse(mapDeserializer0.isCachable())",
+        "output": "assertEquals(false, mapDeserializer0.isCachable());",
+        "score": -0.0026424964889883995,
+        "exact_match": false
+    },
+    {
+        "id": 244,
+        "target": "assertFalse(boolean0)",
+        "output": "assertEquals(false, boolean0);",
+        "score": -0.038211382925510406,
+        "exact_match": false
+    },
+    {
+        "id": 363,
+        "target": "assertEquals(\"&#b\", string0)",
+        "output": "assertEquals(2, charBuffer0.length());",
+        "score": -0.12353017926216125,
+        "exact_match": false
+    },
+    {
+        "id": 99,
+        "target": "",
+        "output": "assertEquals(false, helpFormatter0.printHelp());",
+        "score": -0.22855408489704132,
+        "exact_match": false
+    },
+    {
+        "id": 171,
+        "target": "",
+        "output": "assertEquals(\"<!DOCTYPE2oULXUb#K<| k8g >\", stringBuilder0.toString());",
+        "score": -0.09243927896022797,
+        "exact_match": false
+    },
+    {
+        "id": 152,
+        "target": "assertEquals(\"#comment\", comment0.nodeName())",
+        "output": "assertEquals(\"#comment\", comment0.nodeName());",
+        "score": -0.02511684037744999,
+        "exact_match": false
+    },
+    {
+        "id": 121,
+        "target": "assertEquals(\"\\\\N\", cSVFormat2.getNullString())",
+        "output": "assertEquals(\"?\", cSVFormat1.getNullString());",
+        "score": -0.13912132382392883,
+        "exact_match": false
+    },
+    {
+        "id": 84,
+        "target": "assertEquals(2, list1.size())",
+        "output": "assertEquals(1, list1.size());",
+        "score": -0.13150915503501892,
+        "exact_match": false
+    },
+    {
+        "id": 91,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 13,
+        "target": "assertFalse(jsonReader0.isLenient())",
+        "output": "assertEquals(false, jsonReader0.isLenient());",
+        "score": -0.0061346134170889854,
+        "exact_match": false
+    },
+    {
+        "id": 28,
+        "target": "assertEquals(\"true\", stringWriter0.toString())",
+        "output": "assertSame(jsonWriter0, jsonWriter1);",
+        "score": -0.10970053821802139,
+        "exact_match": false
+    },
+    {
+        "id": 109,
+        "target": "assertEquals(2, stringArray1.length)",
+        "output": "assertNotSame(stringArray1, stringArray0);",
+        "score": -0.0686664879322052,
+        "exact_match": false
+    },
+    {
+        "id": 202,
+        "target": "assertEquals(0L, mockFile0.getUsableSpace())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 333,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 57,
+        "target": "",
+        "output": "assertEquals(true, boolean0);",
+        "score": -0.04003756493330002,
+        "exact_match": false
+    },
+    {
+        "id": 258,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 63,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 9,
+        "target": "assertFalse(jsonReader0.isLenient())",
+        "output": "assertEquals(false, jsonReader0.isLenient());",
+        "score": -0.03527890145778656,
+        "exact_match": false
+    },
+    {
+        "id": 278,
+        "target": "assertFalse(boolean0)",
+        "output": "assertEquals(false, boolean0);",
+        "score": -0.033994488418102264,
+        "exact_match": false
+    },
+    {
+        "id": 119,
+        "target": "assertEquals(\"\\\\N\", cSVFormat1.getNullString())",
+        "output": "assertEquals(\"c\", cSVFormat0.getNullString());",
+        "score": -0.12826085090637207,
+        "exact_match": false
+    },
+    {
+        "id": 313,
+        "target": "exception",
+        "output": "exception",
+        "score": -5.9604641222676946e-08,
+        "exact_match": true
+    },
+    {
+        "id": 371,
+        "target": "assertEquals(\"\\u0004\", string0)",
+        "output": "assertEquals(2, charBuffer0.length());",
+        "score": -0.13191328942775726,
+        "exact_match": false
+    },
+    {
+        "id": 240,
+        "target": "assertEquals(\"q\\uFFFD\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0001\\u0000\\u0000\\uFFFD\\uFFFD\\uFFFD\\uFFFD\\u0000\\u000B\\u0000\\u0000\\u0000\\u0000TRAILER!!!\\u0000\\u0000\", byteArrayOutputStream0.toString())",
+        "output": "assertEquals(0, byteArrayOutputStream0.size());",
+        "score": -0.02899077720940113,
+        "exact_match": false
+    },
+    {
+        "id": 118,
+        "target": "assertEquals(\"\\\\N\", cSVFormat1.getNullString())",
+        "output": "assertNull(cSVFormat1.getNullString());",
+        "score": -0.006512247491627932,
+        "exact_match": false
+    },
+    {
+        "id": 167,
+        "target": "",
+        "output": "assertEquals(false, boolean0);",
+        "score": -0.08333244174718857,
+        "exact_match": false
+    },
+    {
+        "id": 199,
+        "target": "assertEquals(0L, mockFile0.getFreeSpace())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 285,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 75,
+        "target": "assertEquals(1.9017692579836876E-4, univariatePointValuePair0.getPoint(), 0.01)",
+        "output": "assertNotNull(univariatePointValuePair0);",
+        "score": -0.11454030871391296,
+        "exact_match": false
+    },
+    {
+        "id": 147,
+        "target": "assertEquals(\"<!!>\", string0)",
+        "output": "assertNotNull(string0);",
+        "score": -0.10893157124519348,
+        "exact_match": false
+    },
+    {
+        "id": 336,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 90,
+        "target": "",
+        "output": "assertEquals(8, mockPrintWriter0.size());",
+        "score": -0.08455020934343338,
+        "exact_match": false
+    },
+    {
+        "id": 206,
+        "target": "assertTrue(mockFile0.canWrite())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 241,
+        "target": "assertEquals(\"0707070000000000000000000000000000000000010000007777777777700001300000000000TRAILER!!!\\u0000\", byteArrayOutputStream0.toString())",
+        "output": "assertEquals(0, byteArrayOutputStream0.size());",
+        "score": -0.059365466237068176,
+        "exact_match": false
+    },
+    {
+        "id": 10,
+        "target": "assertFalse(jsonReader0.isLenient())",
+        "output": "assertEquals(true, jsonReader0.isLenient());",
+        "score": -0.048243675380945206,
+        "exact_match": false
+    },
+    {
+        "id": 353,
+        "target": "assertEquals(\"JNM-[]\", string0)",
+        "output": "assertEquals(\"[LJNM-;\", string0);",
+        "score": -0.10318424552679062,
+        "exact_match": false
+    },
+    {
+        "id": 17,
+        "target": "",
+        "output": "assertEquals(2L, long0);",
+        "score": -0.16929110884666443,
+        "exact_match": false
+    },
+    {
+        "id": 153,
+        "target": "",
+        "output": "assertEquals(\"<'GQz^]r=Tof/>\", comment0.asXmlDeclaration());",
+        "score": -0.15882469713687897,
+        "exact_match": false
+    },
+    {
+        "id": 252,
+        "target": "",
+        "output": "assertEquals(true, iOContext0.useDirectByteBuffer);",
+        "score": -0.12674859166145325,
+        "exact_match": false
+    },
+    {
+        "id": 83,
+        "target": "assertEquals(1.0, double0, 0.01)",
+        "output": "assertEquals(763.683107623722, double0, 0.01D);",
+        "score": -0.059461068361997604,
+        "exact_match": false
+    },
+    {
+        "id": 116,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 226,
+        "target": "assertEquals(10240L, tarArchiveOutputStream0.getBytesWritten())",
+        "output": "assertEquals(0L, tarArchiveOutputStream0.getBytesWritten());",
+        "score": -0.020595330744981766,
+        "exact_match": false
+    },
+    {
+        "id": 51,
+        "target": "",
+        "output": "assertEquals(0, int0);",
+        "score": -0.04526803269982338,
+        "exact_match": false
+    },
+    {
+        "id": 268,
+        "target": "assertFalse(mapDeserializer1.isCachable())",
+        "output": "assertEquals(false, mapDeserializer1.isCachable());",
+        "score": -0.06068945676088333,
+        "exact_match": false
+    },
+    {
+        "id": 208,
+        "target": "assertEquals(0L, mockFile0.getTotalSpace())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 56,
+        "target": "assertFalse(boolean0)",
+        "output": "assertEquals(true, boolean0);",
+        "score": -0.03855085000395775,
+        "exact_match": false
+    },
+    {
+        "id": 23,
+        "target": "",
+        "output": "assertEquals(\"{\\\"bytes\\\":[91,34,91,93,34,93],\\\"empty\\\":false,\\\"class\\\":\\\"class java.lang.String\\\"}\", stringWriter0.toString());",
+        "score": -0.09629074484109879,
+        "exact_match": false
+    },
+    {
+        "id": 81,
+        "target": "assertEquals(1.0E-14, double0, 0.01)",
+        "output": "assertEquals(0.0, double0, 0.01D);",
+        "score": -0.07152631133794785,
+        "exact_match": false
+    },
+    {
+        "id": 150,
+        "target": "assertFalse(boolean0)",
+        "output": "assertEquals(false, boolean0);",
+        "score": -0.06048557162284851,
+        "exact_match": false
+    },
+    {
+        "id": 347,
+        "target": "assertTrue(boolean0)",
+        "output": "assertEquals(true, boolean0);",
+        "score": -0.041991837322711945,
+        "exact_match": false
+    },
+    {
+        "id": 257,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 96,
+        "target": "",
+        "output": "assertEquals(true, options0.isSet());",
+        "score": -0.2156476527452469,
+        "exact_match": false
+    },
+    {
+        "id": 250,
+        "target": "assertEquals(5, int0)",
+        "output": "assertEquals(dupDetector0.getType(), int0);",
+        "score": -0.19159471988677979,
+        "exact_match": false
+    },
+    {
+        "id": 325,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 179,
+        "target": "assertEquals(\"<!DOCTYPE >\", stringBuilder0.toString())",
+        "output": "assertEquals(\"<html>\\n  <head>\\n    <meta http-equiv=\\\"Content-Type\\\" content=\\\"text/html; charset=utf-8\\\">\\n    <title>ygL0pop.]WM:R$swY0g</title>\\n  </head>\\n  <body>\\n    <p style=\\\"margin-top: 0\\\">\\n      \\n    </p>\\n  </body>\\n</html>\\n\", stringBuilder0.",
+        "score": -0.11868007481098175,
+        "exact_match": false
+    },
+    {
+        "id": 321,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 266,
+        "target": "assertEquals(1, filteringParserDelegate0.getMatchCount())",
+        "output": "assertEquals(266, filteringParserDelegate0.getMatchCount());",
+        "score": -0.12656328082084656,
+        "exact_match": false
+    },
+    {
+        "id": 62,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 242,
+        "target": "assertEquals(\"0707020000000000000000000000000000000000000001ffffffff00000000000000000000000000000000000000000000000b00000000TRAILER!!!\\u0000\\u0000\\u0000\\u0000\", byteArrayOutputStream0.toString())",
+        "output": "assertEquals(0, byteArrayOutputStream0.size());",
+        "score": -0.09950213879346848,
+        "exact_match": false
+    },
+    {
+        "id": 44,
+        "target": "",
+        "output": "assertEquals(\"{\\\"bytes\\\":[91,34,91,93,34,93],\\\"empty\\\":false,\\\"class\\\":\\\"class java.lang.String\\\"}\", stringWriter0.toString());",
+        "score": -0.10182055830955505,
+        "exact_match": false
+    },
+    {
+        "id": 261,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 340,
+        "target": "assertEquals(3, classArray0.length)",
+        "output": "assertNotNull(classArray0);",
+        "score": -0.0003670549485832453,
+        "exact_match": false
+    },
+    {
+        "id": 308,
+        "target": "assertEquals(574, strBuilder1.length())",
+        "output": "assertEquals(574, strBuilder0.length());",
+        "score": -0.0721384808421135,
+        "exact_match": false
+    },
+    {
+        "id": 311,
+        "target": "exception",
+        "output": "exception",
+        "score": -1.7881390590446244e-07,
+        "exact_match": true
+    },
+    {
+        "id": 126,
+        "target": "assertEquals(854L, cSVRecord0.getRecordNumber())",
+        "output": "assertEquals(854L, cSVRecord0.getRecordNumber());",
+        "score": -0.0005590823711827397,
+        "exact_match": false
+    },
+    {
+        "id": 11,
+        "target": "",
+        "output": "assertEquals(0, jsonToken0.getValueAsInt());",
+        "score": -0.2171734869480133,
+        "exact_match": false
+    },
+    {
+        "id": 221,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 284,
+        "target": "exception",
+        "output": "exception",
+        "score": -5.9604641222676946e-08,
+        "exact_match": true
+    },
+    {
+        "id": 142,
+        "target": "assertArrayEquals(new byte[] {(byte)0, (byte)0, (byte)0}, byteArray1)",
+        "output": "assertNotNull(byteArray1);",
+        "score": -0.09499126672744751,
+        "exact_match": false
+    },
+    {
+        "id": 130,
+        "target": "assertArrayEquals(new byte[] {(byte)81, (byte)86, (byte)69, (byte)57, (byte)80, (byte)81, (byte)61, (byte)61}, byteArray1)",
+        "output": "assertEquals(0, int0);",
+        "score": -0.07517856359481812,
+        "exact_match": false
+    },
+    {
+        "id": 360,
+        "target": "",
+        "output": "assertEquals(2, charBuffer0.length());",
+        "score": -0.14729847013950348,
+        "exact_match": false
+    },
+    {
+        "id": 319,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 164,
+        "target": "",
+        "output": "assertEquals(true, boolean0);",
+        "score": -0.01938530057668686,
+        "exact_match": false
+    },
+    {
+        "id": 359,
+        "target": "assertEquals(\"\\u0000\\u0000\\u0000&#X\\u0000\", string0)",
+        "output": "assertEquals(2, charBuffer0.length());",
+        "score": -0.13588736951351166,
+        "exact_match": false
+    },
+    {
+        "id": 368,
+        "target": "",
+        "output": "assertEquals(2, charBuffer0.length());",
+        "score": -0.1298508495092392,
+        "exact_match": false
+    },
+    {
+        "id": 294,
+        "target": "assertNotNull(strBuilder1)",
+        "output": "assertSame(strBuilder1, strBuilder0);",
+        "score": -0.08699958026409149,
+        "exact_match": false
+    },
+    {
+        "id": 245,
+        "target": "assertEquals(6L, long0)",
+        "output": "assertEquals(0L, long0);",
+        "score": -0.12011505663394928,
+        "exact_match": false
+    },
+    {
+        "id": 197,
+        "target": "assertEquals(\"bad CRC checksum for entry \", mockFile0.toString())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 238,
+        "target": "",
+        "output": "assertEquals(0, zip64ExtendedInformationExtraField0.getBinaryLength());",
+        "score": -0.21570192277431488,
+        "exact_match": false
+    },
+    {
+        "id": 225,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 134,
+        "target": "assertEquals(0, int0)",
+        "output": "assertEquals(3, int0);",
+        "score": -0.13674212992191315,
+        "exact_match": false
+    },
+    {
+        "id": 297,
+        "target": "assertEquals(574, strBuilder0.length())",
+        "output": "assertEquals(574, strBuilder0.length());",
+        "score": -0.0721384808421135,
+        "exact_match": false
+    },
+    {
+        "id": 350,
+        "target": "",
+        "output": "assertNotNull(locale0);",
+        "score": -0.09442172199487686,
+        "exact_match": false
+    },
+    {
+        "id": 135,
+        "target": "assertEquals(90, byteArray3.length)",
+        "output": "assertEquals(\"\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000",
+        "score": -0.05004694312810898,
+        "exact_match": false
+    },
+    {
+        "id": 256,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 207,
+        "target": "assertTrue(mockFile0.isFile())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 348,
+        "target": "",
+        "output": "assertEquals(true, boolean0);",
+        "score": -0.03514067456126213,
+        "exact_match": false
+    },
+    {
+        "id": 214,
+        "target": "assertEquals(2048, ZipArchiveOutputStream.EFS_FLAG)",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 52,
+        "target": "assertEquals(false, object0)",
+        "output": "assertNotNull(object0);",
+        "score": -0.056904181838035583,
+        "exact_match": false
+    },
+    {
+        "id": 105,
+        "target": "assertFalse(boolean0)",
+        "output": "assertEquals(false, boolean0);",
+        "score": -0.009326484985649586,
+        "exact_match": false
+    },
+    {
+        "id": 262,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 374,
+        "target": "assertEquals(\"Fri Feb 14 20:21:00 GMT 2014\", date0.toString())",
+        "output": "assertEquals(\"java.util.GregorianCalendar[time=-62138534400000,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id=\\\"Europe/Belfast\\\",offset=0,dstSavings=3600000,useDaylight=true,transitions=242,lastRule=java.util.SimpleTimeZone[id=Europe/Belfast,offset=0,dstSavings",
+        "score": -0.05474839732050896,
+        "exact_match": false
+    },
+    {
+        "id": 370,
+        "target": "",
+        "output": "assertEquals(2, charBuffer0.length());",
+        "score": -0.1403438299894333,
+        "exact_match": false
+    },
+    {
+        "id": 362,
+        "target": "",
+        "output": "assertEquals(2, charBuffer0.length());",
+        "score": -0.16907267272472382,
+        "exact_match": false
+    },
+    {
+        "id": 280,
+        "target": "assertTrue(stdDateFormat0.isLenient())",
+        "output": "assertEquals(true, stdDateFormat0.isLenient());",
+        "score": -0.0001409896503901109,
+        "exact_match": false
+    },
+    {
+        "id": 195,
+        "target": "assertEquals(0, byteArrayOutputStream0.size())",
+        "output": "assertEquals(\"PK\\u0003\\u0004\\u0014\\u0000\\b\\u0000\\uFFFD\\uFFFDB\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\",
+        "score": -0.06284969300031662,
+        "exact_match": false
+    },
+    {
+        "id": 104,
+        "target": "",
+        "output": "assertEquals(true, options0.isSet());",
+        "score": -0.18845176696777344,
+        "exact_match": false
+    },
+    {
+        "id": 79,
+        "target": "assertEquals((-859.8904), double0, 0.01)",
+        "output": "assertEquals(Double.NaN, double0, 0.01D);",
+        "score": -0.07751400768756866,
+        "exact_match": false
+    },
+    {
+        "id": 184,
+        "target": "",
+        "output": "assertEquals(true, boolean0);",
+        "score": -0.06619904935359955,
+        "exact_match": false
+    },
+    {
+        "id": 211,
+        "target": "assertFalse(mockFile0.isAbsolute())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 291,
+        "target": "assertEquals(\"3b#H\\\\/LYs'XYVNA3|'T\", string0)",
+        "output": "assertEquals(\"3b#H/LYs'XYVNA3|'T\", string0);",
+        "score": -0.07540185004472733,
+        "exact_match": false
+    },
+    {
+        "id": 129,
+        "target": "assertEquals((-1), int1)",
+        "output": "assertTrue(cSVLexer0.equals(cSVLexer0));",
+        "score": -0.1517230123281479,
+        "exact_match": false
+    },
+    {
+        "id": 58,
+        "target": "assertEquals(\"/xmlns[1]\", string0)",
+        "output": "assertEquals(\"/xmlns:Factory could not create a child node for path: \", string0);",
+        "score": -0.14233878254890442,
+        "exact_match": false
+    },
+    {
+        "id": 267,
+        "target": "assertEquals((-1), object1)",
+        "output": "assertSame(object0, object1);",
+        "score": -0.13088318705558777,
+        "exact_match": false
+    },
+    {
+        "id": 288,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 162,
+        "target": "assertEquals(\"\", attribute0.getValue())",
+        "output": "assertEquals(\"9\", attribute0.getValue());",
+        "score": -0.00020508146553765982,
+        "exact_match": false
+    },
+    {
+        "id": 310,
+        "target": "assertEquals(\"OZw9N)RwzH/\", string0)",
+        "output": "assertEquals(\"OZw9N)RwzH/\", string0);",
+        "score": -0.06469637155532837,
+        "exact_match": false
+    },
+    {
+        "id": 259,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 339,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 77,
+        "target": "assertEquals((-1689.2658367652516), double0, 0.01)",
+        "output": "assertEquals(0.0, double0, 0.01D);",
+        "score": -0.040210362523794174,
+        "exact_match": false
+    },
+    {
+        "id": 143,
+        "target": "assertFalse(boolean0)",
+        "output": "assertEquals(false, boolean0);",
+        "score": -0.006762086413800716,
+        "exact_match": false
+    },
+    {
+        "id": 172,
+        "target": "assertNull(string0)",
+        "output": "assertEquals(\"UTF-8\", string0);",
+        "score": -0.10802389681339264,
+        "exact_match": false
+    },
+    {
+        "id": 140,
+        "target": "",
+        "output": "assertNotNull(byteArray1);",
+        "score": -0.09114550799131393,
+        "exact_match": false
+    },
+    {
+        "id": 217,
+        "target": "assertEquals(8, ZipArchiveOutputStream.DEFLATED)",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 305,
+        "target": "assertNull(strBuilder1.getNewLineText())",
+        "output": "assertEquals(\"\\n\", strBuilder1.getNewLineText());",
+        "score": -0.07092881947755814,
+        "exact_match": false
+    },
+    {
+        "id": 136,
+        "target": "assertEquals(166, byteArray4.length)",
+        "output": "assertEquals(\"\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000",
+        "score": -0.037638869136571884,
+        "exact_match": false
+    },
+    {
+        "id": 327,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 6,
+        "target": "assertFalse(jsonReader0.isLenient())",
+        "output": "assertEquals(false, jsonReader0.isLenient());",
+        "score": -0.007786313071846962,
+        "exact_match": false
+    },
+    {
+        "id": 133,
+        "target": "assertEquals(1, int0)",
+        "output": "assertEquals(3, int0);",
+        "score": -0.1047782152891159,
+        "exact_match": false
+    },
+    {
+        "id": 185,
+        "target": "assertNotSame(document1, document0)",
+        "output": "assertNotSame(document0, document1);",
+        "score": -0.07148298621177673,
+        "exact_match": false
+    },
+    {
+        "id": 156,
+        "target": "assertEquals(\"\", attribute0.getValue())",
+        "output": "assertNull(attribute0.getValue());",
+        "score": -0.03106350637972355,
+        "exact_match": false
+    },
+    {
+        "id": 220,
+        "target": "exception",
+        "output": "exception",
+        "score": -1.7285319700022228e-06,
+        "exact_match": true
+    },
+    {
+        "id": 183,
+        "target": "assertFalse(boolean0)",
+        "output": "assertEquals(true, boolean0);",
+        "score": -0.07473041117191315,
+        "exact_match": false
+    },
+    {
+        "id": 282,
+        "target": "assertFalse(stdDateFormat0.isLenient())",
+        "output": "assertEquals(false, stdDateFormat0.isLenient());",
+        "score": -0.008899644017219543,
+        "exact_match": false
+    },
+    {
+        "id": 37,
+        "target": "assertEquals(464, int0)",
+        "output": "assertEquals(2, int0);",
+        "score": -0.23671475052833557,
+        "exact_match": false
+    },
+    {
+        "id": 231,
+        "target": "assertEquals(0, zipShort0.getValue())",
+        "output": "assertEquals(0, zipShort0.getValue());",
+        "score": -0.037218380719423294,
+        "exact_match": false
+    },
+    {
+        "id": 80,
+        "target": "",
+        "output": "assertEquals(Double.NaN, double0, 0.01D);",
+        "score": -0.08227060735225677,
+        "exact_match": false
+    },
+    {
+        "id": 193,
+        "target": "assertEquals(0L, long0)",
+        "output": "assertEquals(0L, long0);",
+        "score": -0.061257317662239075,
+        "exact_match": false
+    },
+    {
+        "id": 123,
+        "target": "assertEquals(\"\\\\N\", cSVFormat1.getNullString())",
+        "output": "assertEquals(\"\", cSVFormat1.getNullString());",
+        "score": -0.06942354887723923,
+        "exact_match": false
+    },
+    {
+        "id": 120,
+        "target": "assertEquals(\"\\\\N\", cSVFormat1.getNullString())",
+        "output": "assertEquals(\"\", cSVFormat0.getNullString());",
+        "score": -0.06890793144702911,
+        "exact_match": false
+    },
+    {
+        "id": 346,
+        "target": "",
+        "output": "assertEquals(true, boolean0);",
+        "score": -0.06690762937068939,
+        "exact_match": false
+    },
+    {
+        "id": 364,
+        "target": "",
+        "output": "assertEquals(2, charBuffer0.length());",
+        "score": -0.13076549768447876,
+        "exact_match": false
+    },
+    {
+        "id": 274,
+        "target": "assertFalse(mapDeserializer0.isCachable())",
+        "output": "assertEquals(false, mapDeserializer0.isCachable());",
+        "score": -0.03207223117351532,
+        "exact_match": false
+    },
+    {
+        "id": 122,
+        "target": "assertEquals(\"\\\\N\", cSVFormat1.getNullString())",
+        "output": "assertEquals(\"\", cSVFormat0.getNullString());",
+        "score": -0.08158161491155624,
+        "exact_match": false
+    },
+    {
+        "id": 205,
+        "target": "assertTrue(mockFile0.canRead())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 155,
+        "target": "assertEquals(\"\", attribute0.getValue())",
+        "output": "assertEquals(\"\\\"s:O<.p~\", attribute0.getValue());",
+        "score": -0.058218006044626236,
+        "exact_match": false
+    },
+    {
+        "id": 89,
+        "target": "assertEquals(74, helpFormatter0.defaultWidth)",
+        "output": "assertEquals(8, mockPrintWriter0.size());",
+        "score": -0.0782763734459877,
+        "exact_match": false
+    },
+    {
+        "id": 65,
+        "target": "assertEquals(30, bisectionSolver0.getIterationCount())",
+        "output": "assertEquals(0.0, double0, 0.01D);",
+        "score": -0.05630405619740486,
+        "exact_match": false
+    },
+    {
+        "id": 192,
+        "target": "assertArrayEquals(new byte[] {(byte)48, (byte)32, (byte)0, (byte)0}, byteArray0)",
+        "output": "assertEquals(0L, long0);",
+        "score": -0.061257317662239075,
+        "exact_match": false
+    },
+    {
+        "id": 209,
+        "target": "assertEquals(1392409281320L, mockFile0.lastModified())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 324,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 173,
+        "target": "",
+        "output": "assertEquals(\"UTF-8\", string0);",
+        "score": -0.1076035276055336,
+        "exact_match": false
+    },
+    {
+        "id": 187,
+        "target": "assertTrue(boolean0)",
+        "output": "assertEquals(true, boolean0);",
+        "score": -0.05429007485508919,
+        "exact_match": false
+    },
+    {
+        "id": 19,
+        "target": "",
+        "output": "assertEquals(0, stringReader0.read());",
+        "score": -0.2084914594888687,
+        "exact_match": false
+    },
+    {
+        "id": 7,
+        "target": "",
+        "output": "assertEquals(false, boolean0);",
+        "score": -0.017559070140123367,
+        "exact_match": false
+    },
+    {
+        "id": 330,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 94,
+        "target": "",
+        "output": "assertEquals(true, mockPrintWriter0.checkError());",
+        "score": -0.10842462629079819,
+        "exact_match": false
+    },
+    {
+        "id": 341,
+        "target": "",
+        "output": "assertNotNull(classArray0);",
+        "score": -0.001215552561916411,
+        "exact_match": false
+    },
+    {
+        "id": 138,
+        "target": "assertEquals(12, byteArray1.length)",
+        "output": "assertFalse(byteArray0.equals(byteArray1));",
+        "score": -0.03301343694329262,
+        "exact_match": false
+    },
+    {
+        "id": 272,
+        "target": "assertFalse(mapDeserializer0.isCachable())",
+        "output": "assertEquals(false, mapDeserializer0.isCachable());",
+        "score": -0.02128387615084648,
+        "exact_match": false
+    },
+    {
+        "id": 271,
+        "target": "assertFalse(mapDeserializer0.isCachable())",
+        "output": "assertEquals(false, mapDeserializer0.isCachable());",
+        "score": -0.028365101665258408,
+        "exact_match": false
+    },
+    {
+        "id": 1,
+        "target": "assertEquals(\"1\", string0)",
+        "output": "assertEquals(\"1[Is\\\"A\\\"vL&\", string0);",
+        "score": -0.09998098015785217,
+        "exact_match": false
+    },
+    {
+        "id": 194,
+        "target": "",
+        "output": "assertEquals(0L, long0);",
+        "score": -0.06281206011772156,
+        "exact_match": false
+    },
+    {
+        "id": 372,
+        "target": "",
+        "output": "assertEquals(2, charBuffer0.length());",
+        "score": -0.13797347247600555,
+        "exact_match": false
+    },
+    {
+        "id": 301,
+        "target": "assertFalse(strBuilder0.isEmpty())",
+        "output": "assertEquals(false, strBuilder1.isEmpty());",
+        "score": -0.0925864428281784,
+        "exact_match": false
+    },
+    {
+        "id": 88,
+        "target": "assertEquals(\"\\\"\\\" |\u007fB_#\\\"\", string0)",
+        "output": "assertNotNull(string0);",
+        "score": -0.08407565206289291,
+        "exact_match": false
+    },
+    {
+        "id": 29,
+        "target": "assertTrue(jsonWriter0.getSerializeNulls())",
+        "output": "assertEquals(false, jsonWriter0.getSerializeNulls());",
+        "score": -0.04203781858086586,
+        "exact_match": false
+    },
+    {
+        "id": 303,
+        "target": "assertEquals(574, strBuilder1.size())",
+        "output": "assertEquals(574, strBuilder1.size());",
+        "score": -0.05869073048233986,
+        "exact_match": false
+    },
+    {
+        "id": 113,
+        "target": "assertTrue(cSVFormat1.getAllowMissingColumnNames())",
+        "output": "assertEquals(false, cSVFormat0.getAllowMissingColumnNames());",
+        "score": -0.0556582510471344,
+        "exact_match": false
+    },
+    {
+        "id": 54,
+        "target": "assertTrue(boolean0)",
+        "output": "assertEquals(true, boolean0.booleanValue());",
+        "score": -0.05823259800672531,
+        "exact_match": false
+    },
+    {
+        "id": 18,
+        "target": "assertFalse(jsonReader0.isLenient())",
+        "output": "assertEquals(false, jsonReader0.isLenient());",
+        "score": -0.009476830251514912,
+        "exact_match": false
+    },
+    {
+        "id": 367,
+        "target": "assertEquals(\"&#l\\u0000\\u0000\", string0)",
+        "output": "assertEquals(2, charBuffer0.length());",
+        "score": -0.12485969066619873,
+        "exact_match": false
+    },
+    {
+        "id": 16,
+        "target": "assertFalse(jsonReader0.isLenient())",
+        "output": "assertEquals(false, jsonReader0.isLenient());",
+        "score": -0.006699758116155863,
+        "exact_match": false
+    },
+    {
+        "id": 196,
+        "target": "assertTrue(mockFile0.exists())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 163,
+        "target": "assertTrue(boolean0)",
+        "output": "assertEquals(true, boolean0);",
+        "score": -0.019373644143342972,
+        "exact_match": false
+    },
+    {
+        "id": 356,
+        "target": "assertEquals(\"byte\", string0)",
+        "output": "assertEquals(\"b\", string0);",
+        "score": -0.13204540312290192,
+        "exact_match": false
+    },
+    {
+        "id": 27,
+        "target": "",
+        "output": "assertNotNull(jsonWriter1);",
+        "score": -0.022998249158263206,
+        "exact_match": false
+    },
+    {
+        "id": 270,
+        "target": "assertFalse(mapDeserializer0.isCachable())",
+        "output": "assertEquals(false, mapDeserializer0.isCachable());",
+        "score": -0.019283592700958252,
+        "exact_match": false
+    },
+    {
+        "id": 249,
+        "target": "assertEquals(327680, charArray1.length)",
+        "output": "assertFalse(charArray1.equals(charArray0));",
+        "score": -0.08463791757822037,
+        "exact_match": false
+    },
+    {
+        "id": 102,
+        "target": "assertEquals(\"[ option:  X84U-w?C*\u007f  [ARG] ::  :: class java.lang.String ]\", string0)",
+        "output": "assertEquals(\"[ option: X84U-w?C*\u007f ]\", string0);",
+        "score": -0.04622891545295715,
+        "exact_match": false
+    },
+    {
+        "id": 101,
+        "target": "assertEquals(\"[ option:  [ARG...] ::  :: class java.lang.String ]\", string0)",
+        "output": "assertEquals(\"[ option: -2 ]\", string0);",
+        "score": -0.1291981041431427,
+        "exact_match": false
+    },
+    {
+        "id": 144,
+        "target": "",
+        "output": "assertEquals(false, boolean0);",
+        "score": -0.007278574630618095,
+        "exact_match": false
+    },
+    {
+        "id": 236,
+        "target": "assertNotSame(zip64ExtendedInformationExtraField0, zip64ExtendedInformationExtraField1)",
+        "output": "assertEquals(24, zip64ExtendedInformationExtraField0.getSize());",
+        "score": -0.07821942120790482,
+        "exact_match": false
+    },
+    {
+        "id": 200,
+        "target": "assertNull(mockFile0.getParent())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 117,
+        "target": "assertEquals(\"\\\\N\", cSVFormat1.getNullString())",
+        "output": "assertEquals(\"\\\"\\\"\", cSVFormat1.getNullString());",
+        "score": -0.10110995173454285,
+        "exact_match": false
+    },
+    {
+        "id": 14,
+        "target": "",
+        "output": "assertEquals(2.0, double0, 0.01D);",
+        "score": -0.07565873116254807,
+        "exact_match": false
+    },
+    {
+        "id": 190,
+        "target": "",
+        "output": "assertEquals(\"J\", characterReader0.consumeTo());",
+        "score": -0.07505619525909424,
+        "exact_match": false
+    },
+    {
+        "id": 174,
+        "target": "assertEquals(\"#document\", document0.nodeName())",
+        "output": "assertNotNull(document0);",
+        "score": -0.03236667811870575,
+        "exact_match": false
+    },
+    {
+        "id": 168,
+        "target": "assertEquals(\"\", attribute0.getValue())",
+        "output": "assertEquals(\"6xZW\u007f/$Zc\", attribute0.getValue());",
+        "score": -0.0019493026193231344,
+        "exact_match": false
+    },
+    {
+        "id": 314,
+        "target": "exception",
+        "output": "exception",
+        "score": -5.9604641222676946e-08,
+        "exact_match": true
+    },
+    {
+        "id": 132,
+        "target": "assertEquals(0L, long0)",
+        "output": "assertEquals(4, byteArrayInputStream0.available());",
+        "score": -0.08213277906179428,
+        "exact_match": false
+    },
+    {
+        "id": 177,
+        "target": "",
+        "output": "assertEquals(\"Y3RuM2Iw}~sa=Np}\", string0);",
+        "score": -0.09159018099308014,
+        "exact_match": false
+    },
+    {
+        "id": 320,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 82,
+        "target": "",
+        "output": "assertEquals(0.0, double0, 0.01D);",
+        "score": -0.0685727596282959,
+        "exact_match": false
+    },
+    {
+        "id": 145,
+        "target": "assertEquals(\"<?t4N7&Q?>\", string0)",
+        "output": "assertEquals(\"t4N7&Q\", string0);",
+        "score": -0.08434547483921051,
+        "exact_match": false
+    },
+    {
+        "id": 157,
+        "target": "assertEquals(0, nodeArray0.length)",
+        "output": "assertNotNull(nodeArray0);",
+        "score": -0.013809670694172382,
+        "exact_match": false
+    },
+    {
+        "id": 95,
+        "target": "assertEquals(\"--\", helpFormatter0.getLongOptPrefix())",
+        "output": "assertEquals(\"6i4?\", helpFormatter0.getLongOptPrefix());",
+        "score": -0.049312930554151535,
+        "exact_match": false
+    },
+    {
+        "id": 137,
+        "target": "assertEquals(80, byteArray3.length)",
+        "output": "assertEquals(\"00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+        "score": -0.11444476991891861,
+        "exact_match": false
+    },
+    {
+        "id": 108,
+        "target": "assertEquals(5, stringArray2.length)",
+        "output": "assertNotSame(stringArray1, stringArray2);",
+        "score": -0.08948242664337158,
+        "exact_match": false
+    },
+    {
+        "id": 302,
+        "target": "assertNull(strBuilder0.getNullText())",
+        "output": "assertNull(strBuilder1.getNullText());",
+        "score": -0.02002953737974167,
+        "exact_match": false
+    },
+    {
+        "id": 2,
+        "target": "assertFalse(jsonReader0.isLenient())",
+        "output": "assertEquals(false, jsonReader0.isLenient());",
+        "score": -0.01948222704231739,
+        "exact_match": false
+    },
+    {
+        "id": 73,
+        "target": "exception",
+        "output": "exception",
+        "score": -5.9604641222676946e-08,
+        "exact_match": true
+    },
+    {
+        "id": 68,
+        "target": "assertArrayEquals(new double[] {0.0, 938.1475384}, doubleArray1, 0.01)",
+        "output": "assertFalse(doubleArray1.equals(doubleArray0));",
+        "score": -0.10863298922777176,
+        "exact_match": false
+    },
+    {
+        "id": 355,
+        "target": "assertEquals(\"LJNM-[][]\", string0)",
+        "output": "assertEquals(\"[[LJNM-\", string0);",
+        "score": -0.10622794181108475,
+        "exact_match": false
+    },
+    {
+        "id": 151,
+        "target": "assertEquals(\"]?`?&lt;DQr@*K\", stringBuilder0.toString())",
+        "output": "assertEquals(\"]?`?<DQr@*K\", stringBuilder0.toString());",
+        "score": -0.0379251129925251,
+        "exact_match": false
+    },
+    {
+        "id": 213,
+        "target": "assertEquals(\"UTF8\", zipArchiveOutputStream0.getEncoding())",
+        "output": "assertEquals(\"UTF-8\", zipArchiveOutputStream0.getEncoding());",
+        "score": -0.06090201437473297,
+        "exact_match": false
+    },
+    {
+        "id": 304,
+        "target": "assertFalse(strBuilder1.isEmpty())",
+        "output": "assertEquals(false, strBuilder1.isEmpty());",
+        "score": -0.0925864428281784,
+        "exact_match": false
+    },
+    {
+        "id": 4,
+        "target": "",
+        "output": "assertEquals(\"1[Is\\\"A\\\"vL&\", string0);",
+        "score": -0.1005731001496315,
+        "exact_match": false
+    },
+    {
+        "id": 228,
+        "target": "exception",
+        "output": "exception",
+        "score": -1.7881390590446244e-07,
+        "exact_match": true
+    },
+    {
+        "id": 169,
+        "target": "",
+        "output": "assertEquals((-1846230928), attribute0.hashCode());",
+        "score": -0.5486066341400146,
+        "exact_match": false
+    },
+    {
+        "id": 309,
+        "target": "",
+        "output": "assertSame(strBuilder1, strBuilder0);",
+        "score": -0.06969061493873596,
+        "exact_match": false
+    },
+    {
+        "id": 232,
+        "target": "assertNull(arArchiveEntry0)",
+        "output": "assertNull(arArchiveEntry0);",
+        "score": -0.028733307495713234,
+        "exact_match": false
+    },
+    {
+        "id": 46,
+        "target": "",
+        "output": "assertNotNull(date0);",
+        "score": -0.06576281785964966,
+        "exact_match": false
+    },
+    {
+        "id": 22,
+        "target": "assertEquals(\"1\", stringWriter0.toString())",
+        "output": "assertEquals(\"{\\\"bytes\\\":[91,34,91,93,34,93],\\\"empty\\\":false,\\\"class\\\":\\\"class java.lang.String\\\"}\", stringWriter0.toString());",
+        "score": -0.09991715848445892,
+        "exact_match": false
+    },
+    {
+        "id": 39,
+        "target": "",
+        "output": "assertEquals(2, int0);",
+        "score": -0.31281206011772156,
+        "exact_match": false
+    },
+    {
+        "id": 264,
+        "target": "assertEquals(1, filteringParserDelegate0.getMatchCount())",
+        "output": "assertEquals(1, filteringParserDelegate0.getMatchCount());",
+        "score": -0.021013932302594185,
+        "exact_match": false
+    },
+    {
+        "id": 98,
+        "target": "assertEquals(3, helpFormatter0.defaultDescPad)",
+        "output": "assertEquals(false, helpFormatter0.printHelp());",
+        "score": -0.2244226336479187,
+        "exact_match": false
+    },
+    {
+        "id": 246,
+        "target": "",
+        "output": "assertEquals(0L, long0);",
+        "score": -0.09771689772605896,
+        "exact_match": false
+    },
+    {
+        "id": 354,
+        "target": "assertEquals(\"][]\", string0)",
+        "output": "assertEquals(\"[\", string0);",
+        "score": -0.06619570404291153,
+        "exact_match": false
+    },
+    {
+        "id": 92,
+        "target": "assertNull(string0)",
+        "output": "assertNull(string0);",
+        "score": -1.8357271983404644e-05,
+        "exact_match": false
+    },
+    {
+        "id": 107,
+        "target": "exception",
+        "output": "exception",
+        "score": -5.9604641222676946e-08,
+        "exact_match": true
+    },
+    {
+        "id": 181,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 247,
+        "target": "assertEquals(57343, GeneratorBase.SURR2_LAST)",
+        "output": "assertEquals(\"\", uTF8JsonGenerator0.getEncoding());",
+        "score": -0.20988962054252625,
+        "exact_match": false
+    },
+    {
+        "id": 248,
+        "target": "",
+        "output": "assertEquals(\"\", uTF8JsonGenerator0.getEncoding());",
+        "score": -0.22791440784931183,
+        "exact_match": false
+    },
+    {
+        "id": 222,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 111,
+        "target": "assertTrue(cSVFormat1.getAllowMissingColumnNames())",
+        "output": "assertEquals(true, cSVFormat0.getAllowMissingColumnNames());",
+        "score": -0.06268242746591568,
+        "exact_match": false
+    },
+    {
+        "id": 210,
+        "target": "assertEquals(0L, mockFile0.length())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 279,
+        "target": "assertEquals(\"\", object0.toString())",
+        "output": "assertNull(object0);",
+        "score": -3.55230804416351e-05,
+        "exact_match": false
+    },
+    {
+        "id": 227,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 72,
+        "target": "exception",
+        "output": "exception",
+        "score": -1.1920927533992653e-07,
+        "exact_match": true
+    },
+    {
+        "id": 141,
+        "target": "assertArrayEquals(new byte[] {(byte)0, (byte)0}, byteArray1)",
+        "output": "assertFalse(byteArray0.equals(byteArray1));",
+        "score": -0.07753503322601318,
+        "exact_match": false
+    },
+    {
+        "id": 103,
+        "target": "assertEquals(\"[ option:   ::  :: class java.lang.String ]\", string0)",
+        "output": "assertNotNull(string0);",
+        "score": -0.10322842001914978,
+        "exact_match": false
+    },
+    {
+        "id": 349,
+        "target": "assertEquals(\"\", locale0.getVariant())",
+        "output": "assertNotNull(locale0);",
+        "score": -0.04517201706767082,
+        "exact_match": false
+    },
+    {
+        "id": 43,
+        "target": "assertTrue(jsonWriter0.getSerializeNulls())",
+        "output": "assertEquals(false, jsonWriter0.getSerializeNulls());",
+        "score": -0.0025029631797224283,
+        "exact_match": false
+    },
+    {
+        "id": 338,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 306,
+        "target": "assertEquals(574, strBuilder1.capacity())",
+        "output": "assertEquals(574, strBuilder1.capacity());",
+        "score": -0.07145732641220093,
+        "exact_match": false
+    },
+    {
+        "id": 224,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 235,
+        "target": "assertEquals(\"PK\\u0003\\u0004\\u0014\\u0000\\b\\b\\b\\u0000\\uFFFD\\uFFFDND\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0003\\u0000PK\\u0007\\b\\u0000\\u0000\\u0000\\u0000\\u0002\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000PK\\u0003\\u0004\\u0014\\u0000\\b\\b\\b\\u0000\\uFFFD\\uFFFDND\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000PK\\u0007\\b\\uFFFD\\uFFFD\\uFFFD\\uFFFD\\uFFFD\\uFFFD\\uFFFD\\uFFFD\\uFFFD\\uFFFD\\uFFFD\\uFFFDPK\\u0003\\u0004\\u0014\\u0000\\u0000\\b\\b\\u0000\\uFFFD\\uFFFDND\\u0000\\u0000\\u0000\\u0000\\u0002\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\\u0000\", byteArrayOutputStream0.toString())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.isAutoFlush());",
+        "score": -0.23991486430168152,
+        "exact_match": false
+    },
+    {
+        "id": 201,
+        "target": "assertFalse(mockFile0.isHidden())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 342,
+        "target": "assertEquals(6L, number0)",
+        "output": "assertNotNull(number0);",
+        "score": -0.037270523607730865,
+        "exact_match": false
+    },
+    {
+        "id": 127,
+        "target": "",
+        "output": "assertEquals(\"{null=854}\", cSVRecord0.toString());",
+        "score": -0.1362798511981964,
+        "exact_match": false
+    },
+    {
+        "id": 67,
+        "target": "",
+        "output": "assertEquals(Double.NaN, double0, 0.01D);",
+        "score": -0.06288599967956543,
+        "exact_match": false
+    },
+    {
+        "id": 344,
+        "target": "exception",
+        "output": "exception",
+        "score": -5.9604641222676946e-08,
+        "exact_match": true
+    },
+    {
+        "id": 112,
+        "target": "assertTrue(cSVFormat1.getAllowMissingColumnNames())",
+        "output": "assertEquals(false, cSVFormat0.getAllowMissingColumnNames());",
+        "score": -0.06457778811454773,
+        "exact_match": false
+    },
+    {
+        "id": 318,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 253,
+        "target": "assertNotNull(charArray0)",
+        "output": "assertNotNull(charArray0);",
+        "score": -0.002684934064745903,
+        "exact_match": false
+    },
+    {
+        "id": 60,
+        "target": "assertEquals(56, brentOptimizer0.getEvaluations())",
+        "output": "assertEquals(0.0, double0, 0.01D);",
+        "score": -0.06079363822937012,
+        "exact_match": false
+    },
+    {
+        "id": 87,
+        "target": "assertEquals(\"\\\"qDxD_5>q,)`dEgM\", string0)",
+        "output": "assertEquals(\"\\\"qDxD_5>q,)`dEgM\", string0);",
+        "score": -0.06405186653137207,
+        "exact_match": false
+    },
+    {
+        "id": 182,
+        "target": "assertTrue(boolean0)",
+        "output": "assertEquals(false, boolean0);",
+        "score": -0.06142647936940193,
+        "exact_match": false
+    },
+    {
+        "id": 237,
+        "target": "",
+        "output": "assertEquals(24, zip64ExtendedInformationExtraField0.getSize());",
+        "score": -0.08071499317884445,
+        "exact_match": false
+    },
+    {
+        "id": 12,
+        "target": "assertEquals(1.0, double0, 0.01)",
+        "output": "assertEquals(2.0, double0, 0.01D);",
+        "score": -0.07700884342193604,
+        "exact_match": false
+    },
+    {
+        "id": 178,
+        "target": "assertEquals(\"<!DOCTYPE /:u'\u007f$8-DkwD}/:5 PUBLIC \\\"/:u'\u007f$8-DkwD}/:5\\\" \\\"/:u'\u007f$8-DkwD}/:5\\\">\", string0)",
+        "output": "assertEquals(\"/:u'\u007f$8-DkwD}/:5\", string0);",
+        "score": -0.023419009521603584,
+        "exact_match": false
+    },
+    {
+        "id": 198,
+        "target": "assertFalse(mockFile0.isDirectory())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 146,
+        "target": "assertEquals(\"\", string0)",
+        "output": "assertEquals(\"n/(:P!,Rl&n<F63$O\", string0);",
+        "score": -0.03131408244371414,
+        "exact_match": false
+    },
+    {
+        "id": 229,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 159,
+        "target": "assertEquals(\"\", attribute0.getValue())",
+        "output": "assertEquals(\"6xZW\u007f/$Zc\", attribute0.getValue());",
+        "score": -0.004663330502808094,
+        "exact_match": false
+    },
+    {
+        "id": 345,
+        "target": "assertFalse(boolean0)",
+        "output": "assertEquals(true, boolean0);",
+        "score": -0.07589931786060333,
+        "exact_match": false
+    },
+    {
+        "id": 34,
+        "target": "assertEquals(464L, long0)",
+        "output": "assertEquals(0L, long0);",
+        "score": -0.1688467264175415,
+        "exact_match": false
+    },
+    {
+        "id": 243,
+        "target": "assertEquals(\"0707010000000000000000000000000000000000000001ffffffff00000000000000000000000000000000000000000000000b00000000TRAILER!!!\\u0000\\u0000\\u0000\\u0000\", byteArrayOutputStream0.toString())",
+        "output": "assertEquals(0, byteArrayOutputStream0.size());",
+        "score": -0.12055444717407227,
+        "exact_match": false
+    },
+    {
+        "id": 139,
+        "target": "assertArrayEquals(new byte[] {(byte)0, (byte)0, (byte)0, (byte)0, (byte)0}, byteArray1)",
+        "output": "assertNotNull(byteArray1);",
+        "score": -0.09607099741697311,
+        "exact_match": false
+    },
+    {
+        "id": 48,
+        "target": "assertEquals(Double.NaN, object0)",
+        "output": "assertNotNull(object0);",
+        "score": -0.05350157618522644,
+        "exact_match": false
+    },
+    {
+        "id": 357,
+        "target": "exception",
+        "output": "exception",
+        "score": -1.1920927533992653e-07,
+        "exact_match": true
+    },
+    {
+        "id": 234,
+        "target": "exception",
+        "output": "exception",
+        "score": -2.026555193879176e-06,
+        "exact_match": true
+    },
+    {
+        "id": 315,
+        "target": "exception",
+        "output": "exception",
+        "score": -5.9604641222676946e-08,
+        "exact_match": true
+    },
+    {
+        "id": 180,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 175,
+        "target": "",
+        "output": "assertNotNull(document0);",
+        "score": -0.08397176861763,
+        "exact_match": false
+    },
+    {
+        "id": 312,
+        "target": "exception",
+        "output": "exception",
+        "score": -5.9604641222676946e-08,
+        "exact_match": true
+    },
+    {
+        "id": 40,
+        "target": "assertSame(jsonTreeWriter0, jsonWriter0)",
+        "output": "assertNotNull(jsonWriter0);",
+        "score": -0.009084365330636501,
+        "exact_match": false
+    },
+    {
+        "id": 21,
+        "target": "",
+        "output": "assertEquals(\"{\\\"bytes\\\":[104,116,116,112,58,47,47,120,109,108,112,117,108,108,46,111,114,103,47,118,49,47,100,111,99,47,102,101,97,116,117,114,101,115,46,104,116,109,108,35,118,97,108,105,100,97,116,",
+        "score": -0.052550721913576126,
+        "exact_match": false
+    },
+    {
+        "id": 216,
+        "target": "assertEquals((-1), ZipArchiveOutputStream.DEFAULT_COMPRESSION)",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 251,
+        "target": "assertTrue(iOContext0.isResourceManaged())",
+        "output": "assertEquals(true, iOContext0.isResourceManaged());",
+        "score": -0.019395262002944946,
+        "exact_match": false
+    },
+    {
+        "id": 373,
+        "target": "assertEquals(\"org.evosuite.runtime.mock.java.util.MockGregorianCalendar[time=1392409281000,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id=\\\"GMT\\\",offset=0,dstSavings=0,useDaylight=false,transitions=0,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2014,MONTH=1,WEEK_OF_YEAR=7,WEEK_OF_MONTH=3,DAY_OF_MONTH=14,DAY_OF_YEAR=45,DAY_OF_WEEK=6,DAY_OF_WEEK_IN_MONTH=2,AM_PM=1,HOUR=8,HOUR_OF_DAY=20,MINUTE=21,SECOND=21,MILLISECOND=0,ZONE_OFFSET=0,DST_OFFSET=0]\", calendar1.toString())",
+        "output": "assertEquals(\"java.util.GregorianCalendar[time=-62138534400000,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id=\\\"Europe/Belfast\\\",offset=0,dstSavings=3600000,useDaylight=true,transitions=242,lastRule=java.util.SimpleTimeZone[id=Europe/Belfast,offset=0,dstSavings",
+        "score": -0.055181365460157394,
+        "exact_match": false
+    },
+    {
+        "id": 326,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 85,
+        "target": "assertEquals(37, stringBuffer0.length())",
+        "output": "assertEquals(68, stringBuffer0.length());",
+        "score": -0.16789530217647552,
+        "exact_match": false
+    },
+    {
+        "id": 335,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 263,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 332,
+        "target": "exception",
+        "output": "exception",
+        "score": -5.9604641222676946e-08,
+        "exact_match": true
+    },
+    {
+        "id": 369,
+        "target": "assertEquals(\"&#B\\u0000\\u0000\\u0000\", string0)",
+        "output": "assertEquals(2, charBuffer0.length());",
+        "score": -0.1307010054588318,
+        "exact_match": false
+    },
+    {
+        "id": 148,
+        "target": "assertEquals(\"Fo&percnt;&Hat;&rsqb;N&equals;&lcub;&midast;&excl;BXG&apos;NZQ\", string0)",
+        "output": "assertEquals(\"Fo%^]N={*!BXG'NZQ\", string0);",
+        "score": -0.03838397562503815,
+        "exact_match": false
+    },
+    {
+        "id": 230,
+        "target": "exception",
+        "output": "exception",
+        "score": -1.1920927533992653e-07,
+        "exact_match": true
+    },
+    {
+        "id": 176,
+        "target": "assertEquals(\"Y3RuM2Iw}~sa=Np}\", string0)",
+        "output": "assertEquals(\"Y3RuM2Iw}~sa=Np}\", string0);",
+        "score": -0.07980334013700485,
+        "exact_match": false
+    },
+    {
+        "id": 254,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 269,
+        "target": "assertFalse(mapDeserializer0.isCachable())",
+        "output": "assertEquals(false, mapDeserializer0.isCachable());",
+        "score": -0.029591070488095284,
+        "exact_match": false
+    },
+    {
+        "id": 307,
+        "target": "assertNull(strBuilder1.getNullText())",
+        "output": "assertNull(strBuilder1.getNullText());",
+        "score": -0.02002953737974167,
+        "exact_match": false
+    },
+    {
+        "id": 295,
+        "target": "assertSame(strBuilder0, strBuilder1)",
+        "output": "assertSame(strBuilder1, strBuilder0);",
+        "score": -0.08699958026409149,
+        "exact_match": false
+    },
+    {
+        "id": 42,
+        "target": "assertEquals(\"null\", stringWriter0.toString())",
+        "output": "assertEquals(\"{\\\"bytes\\\":[91,34,91,93,34,93],\\\"empty\\\":false,\\\"class\\\":\\\"class java.lang.String\\\"}\", stringWriter0.toString());",
+        "score": -0.09725164622068405,
+        "exact_match": false
+    },
+    {
+        "id": 125,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 328,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 128,
+        "target": "assertEquals((-1), int0)",
+        "output": "assertEquals(1, int0);",
+        "score": -0.19806118309497833,
+        "exact_match": false
+    },
+    {
+        "id": 154,
+        "target": "assertEquals(\"\", attribute1.getValue())",
+        "output": "assertEquals(\"\\\"s:O<.p~\", attribute1.getValue());",
+        "score": -0.05060627683997154,
+        "exact_match": false
+    },
+    {
+        "id": 186,
+        "target": "",
+        "output": "assertNotSame(document0, document1);",
+        "score": -0.07627104222774506,
+        "exact_match": false
+    },
+    {
+        "id": 233,
+        "target": "",
+        "output": "assertNull(arArchiveEntry0);",
+        "score": -0.025715522468090057,
+        "exact_match": false
+    },
+    {
+        "id": 343,
+        "target": "",
+        "output": "assertNotNull(number0);",
+        "score": -0.022550314664840698,
+        "exact_match": false
+    },
+    {
+        "id": 239,
+        "target": "",
+        "output": "assertEquals(0, zip64ExtendedInformationExtraField0.getBinaryLength());",
+        "score": -0.21306760609149933,
+        "exact_match": false
+    },
+    {
+        "id": 161,
+        "target": "",
+        "output": "assertEquals(false, boolean0);",
+        "score": -0.0716780349612236,
+        "exact_match": false
+    },
+    {
+        "id": 219,
+        "target": "assertEquals(0, byteArrayOutputStream0.size())",
+        "output": "assertEquals(0, byteArrayOutputStream0.size());",
+        "score": -0.03262445330619812,
+        "exact_match": false
+    },
+    {
+        "id": 273,
+        "target": "assertFalse(mapDeserializer0.isCachable())",
+        "output": "assertEquals(false, mapDeserializer2.isCachable());",
+        "score": -0.04784681275486946,
+        "exact_match": false
+    },
+    {
+        "id": 255,
+        "target": "exception",
+        "output": "exception",
+        "score": -8.94068989509833e-07,
+        "exact_match": true
+    },
+    {
+        "id": 106,
+        "target": "assertEquals(3, stringArray1.length)",
+        "output": "assertNotSame(stringArray1, stringArray0);",
+        "score": -0.06652303785085678,
+        "exact_match": false
+    },
+    {
+        "id": 317,
+        "target": "",
+        "output": "assertEquals(\"wTDdt<TJing. Mac\", string0);",
+        "score": -0.07633210718631744,
+        "exact_match": false
+    },
+    {
+        "id": 352,
+        "target": "exception",
+        "output": "exception",
+        "score": -5.9604641222676946e-08,
+        "exact_match": true
+    },
+    {
+        "id": 289,
+        "target": "assertEquals(1, fraction1.getDenominator())",
+        "output": "assertEquals(394, fraction1.getDenominator());",
+        "score": -0.13308049738407135,
+        "exact_match": false
+    },
+    {
+        "id": 33,
+        "target": "assertTrue(jsonReader0.isLenient())",
+        "output": "assertEquals(true, jsonReader0.isLenient());",
+        "score": -0.0030324445106089115,
+        "exact_match": false
+    },
+    {
+        "id": 281,
+        "target": "",
+        "output": "assertEquals(\"yyyy-MM-dd'T'HH:mm:ss\", stdDateFormat0.toPattern());",
+        "score": -0.09293040633201599,
+        "exact_match": false
+    },
+    {
+        "id": 50,
+        "target": "assertEquals(Integer.MIN_VALUE, variablePointer1.getIndex())",
+        "output": "assertEquals(-1, nodePointer0.getIndex());",
+        "score": -0.09680144488811493,
+        "exact_match": false
+    },
+    {
+        "id": 191,
+        "target": "",
+        "output": "assertEquals(6, token_EndTag0.doEndTag());",
+        "score": -0.16148659586906433,
+        "exact_match": false
+    },
+    {
+        "id": 97,
+        "target": "assertEquals(74, helpFormatter0.defaultWidth)",
+        "output": "assertEquals(false, helpFormatter0.printHelp());",
+        "score": -0.2244226336479187,
+        "exact_match": false
+    },
+    {
+        "id": 331,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 298,
+        "target": "assertEquals(574, strBuilder0.size())",
+        "output": "assertEquals(574, strBuilder1.size());",
+        "score": -0.05869073048233986,
+        "exact_match": false
+    },
+    {
+        "id": 53,
+        "target": "assertTrue(boolean0)",
+        "output": "assertEquals(false, boolean0);",
+        "score": -0.08126500248908997,
+        "exact_match": false
+    },
+    {
+        "id": 93,
+        "target": "",
+        "output": "assertNull(string0);",
+        "score": -3.867902705678716e-05,
+        "exact_match": false
+    },
+    {
+        "id": 287,
+        "target": "assertEquals(\"[reference type, class java.lang.Object<java.lang.Object><[simple type, class java.lang.Object]>]\", string0)",
+        "output": "assertNotNull(string0);",
+        "score": -0.09371117502450943,
+        "exact_match": false
+    },
+    {
+        "id": 158,
+        "target": "",
+        "output": "assertNotNull(nodeArray0);",
+        "score": -0.01545832958072424,
+        "exact_match": false
+    },
+    {
+        "id": 293,
+        "target": "",
+        "output": "assertEquals(0, strBuilder0.size);",
+        "score": -0.17032168805599213,
+        "exact_match": false
+    },
+    {
+        "id": 61,
+        "target": "assertEquals(21, brentOptimizer0.getIterationCount())",
+        "output": "assertEquals(0.0, double0, 0.01D);",
+        "score": -0.07761266827583313,
+        "exact_match": false
+    },
+    {
+        "id": 277,
+        "target": "assertFalse(boolean0)",
+        "output": "assertEquals(false, boolean0);",
+        "score": -0.0223812498152256,
+        "exact_match": false
+    },
+    {
+        "id": 74,
+        "target": "assertEquals((-2207.0263), univariatePointValuePair0.getPoint(), 0.01)",
+        "output": "assertNotNull(univariatePointValuePair0);",
+        "score": -0.11961206048727036,
+        "exact_match": false
+    },
+    {
+        "id": 358,
+        "target": "assertFalse(boolean0)",
+        "output": "assertEquals(false, boolean0);",
+        "score": -0.05934976041316986,
+        "exact_match": false
+    },
+    {
+        "id": 149,
+        "target": "assertEquals(\"Fo%^]N={*!BXG'NZQ\", string0)",
+        "output": "assertEquals(\"Fo&percnt;&Hat;&rsqb;N&equals;&lcub;&midast;&excl;BXG&apos;NZQ\", string0);",
+        "score": -0.02240919880568981,
+        "exact_match": false
+    },
+    {
+        "id": 69,
+        "target": "",
+        "output": "assertNotNull(doubleArray1);",
+        "score": -0.06866777688264847,
+        "exact_match": false
+    },
+    {
+        "id": 286,
+        "target": "assertNotNull(jsonDeserializer0)",
+        "output": "assertNull(jsonDeserializer0);",
+        "score": -0.0024068430066108704,
+        "exact_match": false
+    },
+    {
+        "id": 24,
+        "target": "assertEquals(\"null\", stringWriter0.toString())",
+        "output": "assertEquals(\"{\\\"bytes\\\":[91,34,91,93,34,93],\\\"empty\\\":false,\\\"class\\\":\\\"class java.lang.String\\\"}\", stringWriter0.toString());",
+        "score": -0.12716279923915863,
+        "exact_match": false
+    },
+    {
+        "id": 114,
+        "target": "assertTrue(cSVFormat1.getAllowMissingColumnNames())",
+        "output": "assertEquals(false, cSVFormat0.getAllowMissingColumnNames());",
+        "score": -0.05401058867573738,
+        "exact_match": false
+    },
+    {
+        "id": 26,
+        "target": "assertTrue(jsonWriter1.getSerializeNulls())",
+        "output": "assertEquals(false, jsonWriter0.getSerializeNulls());",
+        "score": -0.035951703786849976,
+        "exact_match": false
+    },
+    {
+        "id": 204,
+        "target": "assertEquals(\"bad CRC checksum for entry \", mockFile0.getName())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 300,
+        "target": "assertEquals(574, strBuilder0.capacity())",
+        "output": "assertEquals(574, strBuilder1.capacity());",
+        "score": -0.07145732641220093,
+        "exact_match": false
+    },
+    {
+        "id": 296,
+        "target": "assertSame(strBuilder1, strBuilder0)",
+        "output": "assertSame(strBuilder1, strBuilder0);",
+        "score": -0.08699958026409149,
+        "exact_match": false
+    },
+    {
+        "id": 32,
+        "target": "",
+        "output": "assertEquals(\"{\\\"bytes\\\":[91,34,91,93,34,93],\\\"empty\\\":false,\\\"class\\\":\\\"class java.lang.String\\\"}\", stringWriter0.toString());",
+        "score": -0.1049235388636589,
+        "exact_match": false
+    },
+    {
+        "id": 365,
+        "target": "assertEquals(\"\\u0004\\u0000\\u0000\\u0000\", string0)",
+        "output": "assertEquals(2, charBuffer0.length());",
+        "score": -0.14084424078464508,
+        "exact_match": false
+    },
+    {
+        "id": 322,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 323,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 115,
+        "target": "assertTrue(cSVFormat1.getAllowMissingColumnNames())",
+        "output": "assertEquals(false, cSVFormat0.getAllowMissingColumnNames());",
+        "score": -0.06909225136041641,
+        "exact_match": false
+    },
+    {
+        "id": 64,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 290,
+        "target": "assertEquals(\"<\u007f<\\\\\\\\u+ob%jNBH\\\\/\", string1)",
+        "output": "assertEquals(\"\\\\u+ob%jNBH/\", string1);",
+        "score": -0.12174611538648605,
+        "exact_match": false
+    },
+    {
+        "id": 31,
+        "target": "assertEquals(\"null\\\"n!:l\u007fe\\\"\", stringWriter0.toString())",
+        "output": "assertEquals(\"{\\\"bytes\\\":[91,34,91,93,34,93],\\\"empty\\\":false,\\\"class\\\":\\\"class java.lang.String\\\"}\", stringWriter0.toString());",
+        "score": -0.09535332769155502,
+        "exact_match": false
+    },
+    {
+        "id": 218,
+        "target": "",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.129937544465065,
+        "exact_match": false
+    },
+    {
+        "id": 283,
+        "target": "",
+        "output": "assertEquals(\"yyyy-MM-dd'T'HH:mm:ss\", stdDateFormat0.toPattern());",
+        "score": -0.09520862251520157,
+        "exact_match": false
+    },
+    {
+        "id": 47,
+        "target": "assertTrue(boolean0)",
+        "output": "assertEquals(true, boolean0);",
+        "score": -0.08447511494159698,
+        "exact_match": false
+    },
+    {
+        "id": 124,
+        "target": "assertEquals(\"Delimiter=<\\t> Escape=<\\\\> NullString=<\\\\N> RecordSeparator=<\\n> SkipHeaderRecord:false Header:[]\", string0)",
+        "output": "assertEquals(\"Delimiter=<null>\", string0);",
+        "score": -0.12124893814325333,
+        "exact_match": false
+    },
+    {
+        "id": 36,
+        "target": "assertTrue(jsonReader0.isLenient())",
+        "output": "assertEquals(true, jsonReader0.isLenient());",
+        "score": -0.004059998784214258,
+        "exact_match": false
+    },
+    {
+        "id": 215,
+        "target": "assertEquals(0, ZipArchiveOutputStream.STORED)",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 223,
+        "target": "exception",
+        "output": "exception",
+        "score": -5.9604641222676946e-08,
+        "exact_match": true
+    },
+    {
+        "id": 45,
+        "target": "assertNull(date0)",
+        "output": "assertNotNull(date0);",
+        "score": -0.07235810905694962,
+        "exact_match": false
+    },
+    {
+        "id": 20,
+        "target": "assertEquals(\"\\\"M8}\\\\u003c\u007f{;k$I]`5\\\"\", stringWriter0.toString())",
+        "output": "assertEquals(\"{\\\"bytes\\\":[104,116,116,112,58,47,47,120,109,108,112,117,108,108,46,111,114,103,47,118,49,47,100,111,99,47,102,101,97,116,117,114,101,115,46,104,116,109,108,35,118,97,108,105,100,97,116,",
+        "score": -0.051984261721372604,
+        "exact_match": false
+    },
+    {
+        "id": 110,
+        "target": "assertTrue(cSVFormat1.getAllowMissingColumnNames())",
+        "output": "assertEquals(false, cSVFormat1.getAllowMissingColumnNames());",
+        "score": -0.026537977159023285,
+        "exact_match": false
+    },
+    {
+        "id": 260,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 30,
+        "target": "",
+        "output": "assertSame(jsonWriter0, jsonWriter1);",
+        "score": -0.23741640150547028,
+        "exact_match": false
+    },
+    {
+        "id": 299,
+        "target": "assertNull(strBuilder0.getNewLineText())",
+        "output": "assertEquals(\"\\n\", strBuilder1.getNewLineText());",
+        "score": -0.07092881947755814,
+        "exact_match": false
+    },
+    {
+        "id": 188,
+        "target": "assertEquals(0, characterReader0.pos())",
+        "output": "assertEquals(1, characterReader0.pos());",
+        "score": -0.13492505252361298,
+        "exact_match": false
+    },
+    {
+        "id": 49,
+        "target": "assertEquals(1, int0)",
+        "output": "assertEquals(0, int0);",
+        "score": -0.039421241730451584,
+        "exact_match": false
+    },
+    {
+        "id": 275,
+        "target": "assertFalse(mapDeserializer0.isCachable())",
+        "output": "assertEquals(false, mapDeserializer0.isCachable());",
+        "score": -0.04526321589946747,
+        "exact_match": false
+    },
+    {
+        "id": 38,
+        "target": "assertTrue(jsonReader0.isLenient())",
+        "output": "assertEquals(true, jsonReader0.isLenient());",
+        "score": -0.0032014811877161264,
+        "exact_match": false
+    },
+    {
+        "id": 25,
+        "target": "",
+        "output": "assertEquals(\"{\\\"bytes\\\":[91,34,91,93,34,93],\\\"empty\\\":false,\\\"class\\\":\\\"class java.lang.String\\\"}\", stringWriter0.toString());",
+        "score": -0.1281159669160843,
+        "exact_match": false
+    },
+    {
+        "id": 334,
+        "target": "exception",
+        "output": "exception",
+        "score": 0.0,
+        "exact_match": true
+    },
+    {
+        "id": 203,
+        "target": "assertTrue(mockFile0.canExecute())",
+        "output": "assertEquals(false, zipArchiveOutputStream0.archiveHasBeenExtracted());",
+        "score": -0.1370590180158615,
+        "exact_match": false
+    },
+    {
+        "id": 78,
+        "target": "",
+        "output": "assertEquals(0.0, double0, 0.01D);",
+        "score": -0.047045283019542694,
+        "exact_match": false
+    },
+    {
+        "id": 166,
+        "target": "assertFalse(boolean0)",
+        "output": "assertEquals(false, boolean0);",
+        "score": -0.08160918951034546,
+        "exact_match": false
+    }
+]

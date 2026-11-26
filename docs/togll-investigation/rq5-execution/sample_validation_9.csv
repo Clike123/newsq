@@ -1,0 +1,10 @@
+otype,project,bug,test,artifact_fb,server_fb,artifact_ff,server_ff,match
+assertion-TP,Cli,29,org.apache.commons.cli.Util_ESTest::test61,True,True,False,False,True
+assertion-TP,JacksonCore,8,com.fasterxml.jackson.core.util.TextBuffer_ESTest::test271,True,True,False,False,True
+assertion-TP,Compress,27,org.apache.commons.compress.archivers.tar.TarUtils_ESTest::test001,True,True,False,False,True
+exception-TP,Cli,40,org.apache.commons.cli.TypeHandler_ESTest::test101,True,True,False,False,True
+exception-TP,JacksonCore,2,com.fasterxml.jackson.core.json.ReaderBasedJsonParser_ESTest::test271,True,True,False,False,True
+assertion-FP,JacksonCore,22,com.fasterxml.jackson.core.filter.FilteringParserDelegate_ESTest::test501,True,True,True,True,True
+assertion-FN-misguided,Compress,1,org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream_ESTest::test211,False,False,True,True,True
+prefixonly-TP,Gson,4,com.google.gson.stream.JsonWriter_ESTest::test001,True,True,False,False,True
+assertion-TN,JacksonCore,14,com.fasterxml.jackson.core.io.IOContext_ESTest::test221,False,False,False,False,True

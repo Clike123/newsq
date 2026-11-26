@@ -1,0 +1,223 @@
+{
+ "total": 102,
+ "match": 94,
+ "mismatch": 8,
+ "details": [
+  [
+   "TOGA",
+   "prefix_only",
+   [
+    "Gson",
+    "4",
+    "com.google.gson.stream.JsonReader_ESTest::test421"
+   ],
+   {
+    "failed_buggy": [
+     "True",
+     "False"
+    ],
+    "failed_fixed": [
+     "False",
+     "True"
+    ],
+    "TP": [
+     "True",
+     "False"
+    ],
+    "FN": [
+     "False",
+     "True"
+    ]
+   }
+  ],
+  [
+   "TOGA",
+   "prefix_only",
+   [
+    "Gson",
+    "4",
+    "com.google.gson.stream.JsonReader_ESTest::test422"
+   ],
+   {
+    "failed_buggy": [
+     "False",
+     "True"
+    ],
+    "failed_fixed": [
+     "True",
+     "False"
+    ],
+    "TP": [
+     "False",
+     "True"
+    ],
+    "FN": [
+     "True",
+     "False"
+    ]
+   }
+  ],
+  [
+   "TOGA",
+   "prefix_only",
+   [
+    "Gson",
+    "4",
+    "com.google.gson.stream.JsonReader_ESTest::test423"
+   ],
+   {
+    "failed_buggy": [
+     "False",
+     "True"
+    ],
+    "failed_fixed": [
+     "True",
+     "False"
+    ],
+    "TP": [
+     "False",
+     "True"
+    ],
+    "FN": [
+     "True",
+     "False"
+    ]
+   }
+  ],
+  [
+   "TOGA",
+   "prefix_only",
+   [
+    "Gson",
+    "4",
+    "com.google.gson.stream.JsonReader_ESTest::test424"
+   ],
+   {
+    "failed_buggy": [
+     "True",
+     "False"
+    ],
+    "failed_fixed": [
+     "False",
+     "True"
+    ],
+    "TP": [
+     "True",
+     "False"
+    ],
+    "FN": [
+     "False",
+     "True"
+    ]
+   }
+  ],
+  [
+   "TOGA",
+   "prefix_only",
+   [
+    "Gson",
+    "4",
+    "com.google.gson.stream.JsonReader_ESTest::test452"
+   ],
+   {
+    "failed_buggy": [
+     "True",
+     "False"
+    ],
+    "failed_fixed": [
+     "False",
+     "True"
+    ],
+    "TP": [
+     "True",
+     "False"
+    ],
+    "FN": [
+     "False",
+     "True"
+    ]
+   }
+  ],
+  [
+   "TOGA",
+   "prefix_only",
+   [
+    "Gson",
+    "4",
+    "com.google.gson.stream.JsonReader_ESTest::test453"
+   ],
+   {
+    "failed_buggy": [
+     "False",
+     "True"
+    ],
+    "failed_fixed": [
+     "True",
+     "False"
+    ],
+    "TP": [
+     "False",
+     "True"
+    ],
+    "FN": [
+     "True",
+     "False"
+    ]
+   }
+  ],
+  [
+   "TOGA",
+   "prefix_only",
+   [
+    "Gson",
+    "4",
+    "com.google.gson.stream.JsonWriter_ESTest::test202"
+   ],
+   {
+    "failed_buggy": [
+     "True",
+     "False"
+    ],
+    "failed_fixed": [
+     "False",
+     "True"
+    ],
+    "TP": [
+     "True",
+     "False"
+    ],
+    "FN": [
+     "False",
+     "True"
+    ]
+   }
+  ],
+  [
+   "TOGA",
+   "prefix_only",
+   [
+    "Gson",
+    "4",
+    "com.google.gson.stream.JsonWriter_ESTest::test203"
+   ],
+   {
+    "failed_buggy": [
+     "False",
+     "True"
+    ],
+    "failed_fixed": [
+     "True",
+     "False"
+    ],
+    "TP": [
+     "False",
+     "True"
+    ],
+    "FN": [
+     "True",
+     "False"
+    ]
+   }
+  ]
+ ]
+}

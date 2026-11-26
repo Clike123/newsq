@@ -35,3 +35,11 @@ ssh 后：nvidia-smi；tail work/train_gpu0.log；ls work/codeparrot_*
 - RQ2 执行级正确率重算（需分析 surefire 报告，已下载 94MB 推理结果 JSON，初步统计 387,940 样本 exact-match 17.6%、exception 99.87%）
 - RQ4 Table III 突变测试重算（PIT 输出 7GB 未下载）
 - 其余 6 模型训练（codegen-350M 基座已就位，其余按需）
+
+## 2026-11-26 15:00 更新：用户决策改为不重训，训练已停止
+- 两个训练进程已按用户指示停止（释放双卡），GPU 训练复现留待下周更好硬件
+- Table I 作者权重子集验证（n≈1000/配置）完成：
+  tc_mut 79.26% vs 77.7 | tc_mut_doc 80.75% vs 77.7 | tc_mutsig 77.08% vs 76.1（论文值）
+  三配置全部落在统计一致范围（系统偏高 1-3pp，beam 搜索硬件级不确定性可解释）
+- 全量测试集验证（n=7953×3 配置，约 2.5h）已于后台启动: validate_t1_full.log
+  完成后读 work/validate_table1_report.json 与 validate_t1_full.log

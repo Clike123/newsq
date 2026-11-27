@@ -1,0 +1,2096 @@
+[
+ {
+  "project": "Cli",
+  "bug_num": 15,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Cli",
+  "bug_num": 17,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Cli",
+  "bug_num": 18,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Cli",
+  "bug_num": 22,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Cli",
+  "bug_num": 23,
+  "with_oracle": {
+   "det": null,
+   "valid": false,
+   "reason": "checkout_failed",
+   "n_obs": 1,
+   "n_unk": 1,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Cli",
+  "bug_num": 24,
+  "with_oracle": {
+   "det": null,
+   "valid": false,
+   "reason": "checkout_failed",
+   "n_obs": 1,
+   "n_unk": 1,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Cli",
+  "bug_num": 25,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Cli",
+  "bug_num": 29,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": [
+    "ORACLE_ASSERTION"
+   ]
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": true
+ },
+ {
+  "project": "Cli",
+  "bug_num": 31,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "ORACLE_ASSERTION"
+   ]
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": true
+ },
+ {
+  "project": "Cli",
+  "bug_num": 32,
+  "with_oracle": {
+   "det": null,
+   "valid": false,
+   "reason": "checkout_failed",
+   "n_obs": 3,
+   "n_unk": 3,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Cli",
+  "bug_num": 34,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 4,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 4,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Cli",
+  "bug_num": 5,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Cli",
+  "bug_num": 8,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Codec",
+  "bug_num": 11,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 4,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 4,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Codec",
+  "bug_num": 12,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 3,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 3,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Codec",
+  "bug_num": 18,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Codec",
+  "bug_num": 4,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Compress",
+  "bug_num": 1,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 4,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 4,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Compress",
+  "bug_num": 17,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Compress",
+  "bug_num": 19,
+  "with_oracle": {
+   "det": null,
+   "valid": false,
+   "reason": "checkout_failed",
+   "n_obs": 3,
+   "n_unk": 3,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 3,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Compress",
+  "bug_num": 2,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Compress",
+  "bug_num": 27,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Compress",
+  "bug_num": 34,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "ORACLE_ASSERTION"
+   ]
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": true
+ },
+ {
+  "project": "Compress",
+  "bug_num": 4,
+  "with_oracle": {
+   "det": null,
+   "valid": false,
+   "reason": "checkout_failed",
+   "n_obs": 4,
+   "n_unk": 4,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Compress",
+  "bug_num": 43,
+  "with_oracle": {
+   "det": null,
+   "valid": false,
+   "reason": "checkout_failed",
+   "n_obs": 1,
+   "n_unk": 1,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": null
+ },
+ {
+  "project": "Compress",
+  "bug_num": 6,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "ORACLE_ASSERTION"
+   ]
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": true
+ },
+ {
+  "project": "Compress",
+  "bug_num": 9,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Csv",
+  "bug_num": 12,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 6,
+   "n_unk": 0,
+   "det_attrs": [
+    "ORACLE_ASSERTION"
+   ]
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 6,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": true
+ },
+ {
+  "project": "Csv",
+  "bug_num": 13,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 8,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 8,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Csv",
+  "bug_num": 3,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Csv",
+  "bug_num": 6,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Gson",
+  "bug_num": 17,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Gson",
+  "bug_num": 4,
+  "with_oracle": {
+   "det": null,
+   "valid": false,
+   "reason": "checkout_failed",
+   "n_obs": 21,
+   "n_unk": 21,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 12,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Gson",
+  "bug_num": 7,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 6,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 3,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Gson",
+  "bug_num": 9,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 3,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "JacksonCore",
+  "bug_num": 14,
+  "with_oracle": {
+   "det": null,
+   "valid": false,
+   "reason": "checkout_failed",
+   "n_obs": 2,
+   "n_unk": 2,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "JacksonCore",
+  "bug_num": 20,
+  "with_oracle": {
+   "det": null,
+   "valid": false,
+   "reason": "checkout_failed",
+   "n_obs": 1,
+   "n_unk": 1,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "JacksonCore",
+  "bug_num": 22,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 3,
+   "n_unk": 0,
+   "det_attrs": [
+    "ORACLE_ASSERTION"
+   ]
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 3,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": true
+ },
+ {
+  "project": "JacksonCore",
+  "bug_num": 4,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "JacksonCore",
+  "bug_num": 7,
+  "with_oracle": {
+   "det": null,
+   "valid": false,
+   "reason": "checkout_failed",
+   "n_obs": 1,
+   "n_unk": 1,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": null
+ },
+ {
+  "project": "JacksonCore",
+  "bug_num": 8,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "ORACLE_ASSERTION"
+   ]
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": true
+ },
+ {
+  "project": "JacksonDatabind",
+  "bug_num": 105,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "JacksonDatabind",
+  "bug_num": 12,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 11,
+   "n_unk": 0,
+   "det_attrs": [
+    "ORACLE_ASSERTION"
+   ]
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 11,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": true
+ },
+ {
+  "project": "JacksonDatabind",
+  "bug_num": 36,
+  "with_oracle": {
+   "det": null,
+   "valid": false,
+   "reason": "checkout_failed",
+   "n_obs": 4,
+   "n_unk": 4,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "JacksonDatabind",
+  "bug_num": 42,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "JacksonDatabind",
+  "bug_num": 49,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "JacksonDatabind",
+  "bug_num": 99,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 16,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 18,
+  "with_oracle": {
+   "det": null,
+   "valid": false,
+   "reason": "checkout_failed",
+   "n_obs": 2,
+   "n_unk": 2,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 19,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "ORACLE_ASSERTION"
+   ]
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": true
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 26,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 30,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "ORACLE_ASSERTION"
+   ]
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": true
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 34,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 36,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 4,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 40,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 41,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 47,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 5,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 52,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 3,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 3,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 59,
+  "with_oracle": {
+   "det": null,
+   "valid": false,
+   "reason": "checkout_failed",
+   "n_obs": 1,
+   "n_unk": 1,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 79,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 8,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 83,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 86,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": true
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 88,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 3,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 3,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Jsoup",
+  "bug_num": 89,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 8,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 4,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "JxPath",
+  "bug_num": 12,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "ORACLE_ASSERTION"
+   ]
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": true
+ },
+ {
+  "project": "JxPath",
+  "bug_num": 14,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "JxPath",
+  "bug_num": 16,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "JxPath",
+  "bug_num": 22,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "JxPath",
+  "bug_num": 5,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "JxPath",
+  "bug_num": 6,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "JxPath",
+  "bug_num": 8,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Lang",
+  "bug_num": 19,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 7,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 7,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Lang",
+  "bug_num": 23,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "ORACLE_ASSERTION"
+   ]
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": true
+ },
+ {
+  "project": "Lang",
+  "bug_num": 33,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Lang",
+  "bug_num": 41,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 4,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 4,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Lang",
+  "bug_num": 45,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Lang",
+  "bug_num": 46,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "ORACLE_ASSERTION"
+   ]
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": true
+ },
+ {
+  "project": "Lang",
+  "bug_num": 47,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 9,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Lang",
+  "bug_num": 49,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Lang",
+  "bug_num": 5,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Lang",
+  "bug_num": 52,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Lang",
+  "bug_num": 57,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Lang",
+  "bug_num": 58,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Math",
+  "bug_num": 23,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 3,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 3,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Math",
+  "bug_num": 66,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Math",
+  "bug_num": 70,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Math",
+  "bug_num": 85,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 2,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ },
+ {
+  "project": "Math",
+  "bug_num": 95,
+  "with_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "no_oracle": {
+   "det": false,
+   "valid": true,
+   "reason": null,
+   "n_obs": 1,
+   "n_unk": 0,
+   "det_attrs": []
+  },
+  "net_new": false
+ },
+ {
+  "project": "Math",
+  "bug_num": 97,
+  "with_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 3,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "no_oracle": {
+   "det": true,
+   "valid": true,
+   "reason": null,
+   "n_obs": 3,
+   "n_unk": 0,
+   "det_attrs": [
+    "PREFIX_EXCEPTION"
+   ]
+  },
+  "net_new": false
+ }
+]
